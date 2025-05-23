@@ -43,8 +43,9 @@ Me chamo Gabriel Trindade, sou natural do Rio de Janeiro e atualmente estou curs
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
-      src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrindade-dev)](https://github.com/gabrieltrindade-dev/github-readme-stats)" 
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltrindade-dev&theme=tokyonight&layou=compact&custom_title=Tecnologias&langs_count=2" 
   />
 
 </p>
