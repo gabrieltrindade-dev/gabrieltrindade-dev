@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Gabriel Trindade
+# 👨🏻‍💻 Gabriel Trindade
 
 **`Software Developer`**
 
